@@ -1,0 +1,75 @@
+,,,,Species,Adesmia retrofracta Hook. et Arn.,Arjona patagonica Hombron & Jacquinot ,Baccharis pingraea DC.,Discaria trinervis (Hook. et Arn.) Reiche,Grindelia chiloensis (Corn.) Cabrera,Hysterionica jasionoides Willd.,Junellia cf. tonini (Kuntze) Moldenke,Larrea divaricata Cav.,Lathyrus sp.,Lecanophora heterophylla (Cav.) Krapovickas,Mimulus sp.,Mutisia decurrens Cav.,Oenothera mendocinensis Gilles ex Hook. et Arn.,Opuntia corrugata S-D.,Oxalis sp.,Phacelia cf. secunda Gmelin,Polygala stenophylla A. Gray,Pyrrhocactus cf. strausianum (K. Schum.) Berger,Rapistrum rugosum (L.) Allioni,Rosa rubiginosa L.,Senecio filaginoides DC.,Senecio subulatus Don ex Hook. & Arn.,Thelesperma megapotamicum (Spreng.) O. Kuntze
+,,,,Family,Fabaceae,Santalaceae,Asteraceae,Rhamnaceae,Asteraceae,Asteraceae,Verbenaceae,Zygophyllaceae,Fabaceae,Malvaceae,Scrophulariaceae,Asteraceae,Onagraceae,Cactaceae,Oxalidaceae,Hydrophyllaceae,Polygalaceae,Cactaceae,Brassicaceae,Rosaceae,Asteraceae,Asteraceae,Asteraceae
+Order,Family,Species,pollin_code,plant_code,2,3,7,11,13,15,17,18,19,20,24,26,27,28,29,32,33,34,35,36,37,38,43
+,,Copestylum aricia,aa,11 13 15 18 35 36 37 38 43,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+,,Copestylum sp2,ab,13 18,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Eristalis bogotensis,ac,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+,,Eristalis tenax,ad,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Carposcalis punctulata,af,7 11 13,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,cf. Toxomerus sp.,ag,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,Scaeva occidentalis,ai,7 11 13 15 35 38 ,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+,,Syrphidae sp3,aj,7 11,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Ocyptamus meridionalis,ak,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Syrphidae,Alipumilio sp.,al,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Carposcalis saltana,am,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Tachinidae sp4,ar,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Tachinidae sp5,as,36 38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+,,Tachinidae sp6,at,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Tephritidae,Tephritidae sp.,av,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,Buprestidae,Buprestidae sp.,ax,13 36,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+C,Cantharidae,Cantharidae sp.,ay,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Anthomyiidae sp2,b,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Eriopis cf. conexa,ba,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Coccinelidae sp1,bb,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Coccinelidae sp2,bc,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Coccinelidae sp3,bd,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,Curculionidae,Curculionidae sp.,be,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,Meloidae,Epicauta sp.,bf,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,Mordellidae,Mordellidae sp.,bh,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HE,unidentified,Hemiptera sp1,bi,15,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Hemiptera sp2,bj,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HY,Andrenidae,Arhysosage bifasciata,bk,28 34,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+,,Callonychium mandibulare,bl,13 15 43,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+,,Psaenythia rufipes,bo,13 15 28 34,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+,,Alloscirtetica herbsti,br,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Apis mellifera,bt,13 36,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,Centris muralis,bu,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Centris sp.,bv,19 28,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+,,Diadasia patagonica,bw,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Svastrides zebra,bx,13 18,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Bibionidae,Bibionidae sp1,c,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Colletes lycii,ca,18 33,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+,,Hypodinerus sp3,ce,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Eumenidae sp.,cf,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HY,Halictidae,Augochloropsis sp.,cg,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Caenohalictus sp1,ch,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Caenohalictus sp2,ci,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Dialictus sp1,cj,7 13 28,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+,,Dialictus sp2,ck,13 19 28,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+,,Anthidium rubriceps,cn,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+,,Chalepogenus caeruleus,co,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Megachile sp3,cr,13 20 34,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+,,Megachile sp4,cs,2 19 24 29,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+HY,Pompilidae,cf. Entypus sp.,ct,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HY,Sphecidae,Ammophila sp.,cu,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,,Oxybelus sp.,cv,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Prionyx sp.,cw,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Sphecidae sp.,cx,7 13 43,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+L,Geometridae,Geometridae sp.,cy,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Bibionidae sp2,d,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Vanessa cf. cardui,dg,3 13 17,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L,Pieridae,Tatochila sp.,dh,3 17,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Thysanoptera sp2,dl,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TR,Trochilidae,Sappho sparganura,dm,26 27,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+,,Thyridanthrax sp4,j,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Compsomyiops fulvicrura ,l,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Calliphoridae sp2,n,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Empididae,Empididae sp.,p,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,cf. Notiphila sp.,r,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Ephydridae sp.,s,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Muscidae,Muscidae sp1,t,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Muscidae sp2,u,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Muscidae sp3,v,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Muscidae sp4,w,11 13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,cf. Microcerella sp.,y,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Sarcophagidae sp.,z,7 11 13 38,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0

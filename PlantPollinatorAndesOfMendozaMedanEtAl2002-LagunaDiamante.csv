@@ -1,0 +1,48 @@
+,,,,Species,Adesmia haemisphaerica Hauman,Astragalus cruckshanksii (Hook. et Arn.) Grisebach,Astragalus nivicola Gómez-Sosa,Azorella monanthos Clos in Gay,Calandrinia caespitosa Gill. ex Arn.,Cerastium arvense L.,Discaria nana (Clos.) Weberb.        ,Epilobium nivale Meyen,Hypochoeris montana (Phil.) Reiche,Jaborosa laciniata (Miers) A.T. Hunziker & G. Barboza,Leuceria candidissima Don,Loasa incurva Crespo & Pérez-Moreau,Menonvillea hookeri Rollins,Montiopsis gilliesii (Hook. et Arn.) Ford,Oxalis erythrorhiza Gillies,Perezia pilifera (Don.) Hook. et Arnott,Phacelia cf. secunda Gmelin,Senecio tricephalus OK.,Senecio looseri Cabr.,Sisyrinchium junceum ssp. junceum E. Meyer ex Presl. ,Tarasa humilis (Gill.) Krapovickas
+,,,,Family,Fabaceae,Fabaceae,Fabaceae,Apiaceae,Portulacaceae,Caryophyllaceae,Rhamnaceae,Onagraceae,Asteraceae,Solanaceae,Asteraceae,Loasaceae,Brassicaceae,Portulacaceae,Oxalidaceae,Asteraceae,Hydrophyllaceae,Asteraceae,Asteraceae,Iridaceae,Malvaceae
+Order,Family,Species,pollin_code,plant_code,1,4,5,6,8,9,10,12,14,16,21,22,23,25,30,31,32,39,40,41,42
+D,Anthomyiidae,Anthomyiidae sp1,a,6 16,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,Dolichogyna sp.,ae,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Tropidia notata,ah,9 10,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Tabanidae,Dasybaris chillan ,an,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Tachinidae,Tachinidae sp1 ,ao,6 10 16 32,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+,,Tachinidae sp2 ,ap,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Tachinidae sp3 ,aq,16,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,Tachinidae sp7,au,1 6 32 40,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+D,unidentified,,aw,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+C,Coccinelidae,Coccinela anchoralis,az,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,Melyridae,Astylus sp.,bg,14 30,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+,,Liphantus sp1,bm,21 41,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+,,Liphantus sp2 ,bn,6 16,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+,,Spinoliella sp. ,bp,40 42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+HY,Apidae,Alloscirtetica antarctica ,bq,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+,,Alloscirtetica sp.,bs,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+HY,Colletidae,Chilimelissa farellones ,by,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+,,Chilimelissa sp.,bz,12 25 30 31,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0
+HY,Crabronidae,Podagritus sp.,cb,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HY,Eumenidae,Hypodinerus sp1,cc,8 10 ,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Hypodinerus sp2,cd,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HY,Ichneumonidae,Ichneumonidae sp.,cl,6 39,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HY,Megachilidae,Anthidium chubuti,cm,1 22 41,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+,,Megachile sp1 ,cp,1 4 5 32 40 41 42 ,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+,,Megachile sp2 ,cq,1 5 40 41,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+L,Hesperiidae,Pyrgus cf. fides ,cz,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+L,Noctuidae,Agrotis ipsilon ,da,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Peridroma saucia ,db,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Pseudoleucania nobilis ,dc,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Pseudoleucania sp.,dd,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Tamseuxoa ingoufii ,de,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+L,Nymphalidae,Issoria lathonioides,df,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Phulia sp1,di,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Phulia sp2,dj,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+T,unidentified,Thysanoptera sp1,dk,23 39 40,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+D,Bombyliidae,Geron sp.,e,5 9 10 25 31,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+,,Thyridanthrax sp1,f,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Thyridanthrax sp2,g,6 10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Thyridanthrax sp3,h,10,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Thyridanthrax sp3,i,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Calliphoridae,Chlorobrachycoma versicolor ,k,6 10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Calliphoridae sp1,m,9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+D,Chironomidae,Chironomidae sp.,o,10 32,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+D,Ephydridae,cf. Mosillus sp,q,6 16,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+D,Sarcophagidae,Microcerella rusca ,x,6 10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
